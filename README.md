@@ -1,71 +1,51 @@
-<div align="center">
+# 👋 Hi, I'm Nguyen!
 
-# Tran Tat Nguyen
-
-**Data Science Student · Applied AI & Machine Learning**
-
-*First-year student at University of Economics Ho Chi Minh City*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyentrann0703)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nguyentrann0703@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nguyentrann0703)
-
-</div>
+🎓 First-year Data Science student at the University of Economics Ho Chi Minh City  
+🤖 Interested in machine learning, applied AI, and end-to-end AI systems  
+🔍 Passionate about turning unstructured data into actionable insights  
+🛠️ Currently building: AI pipelines with RAG, computer vision, and vector search  
+📬 Reach me at: nguyentrann0703@gmail.com
 
 ---
 
-## About
-
-First-year Data Science student at UEH with a strong interest in machine learning and applied AI systems. I focus on building practical AI pipelines that integrate data processing, model inference, and retrieval-augmented generation — turning unstructured data into actionable insights.
-
-Currently exploring the intersection of computer vision, NLP, and vector search in real-world applications.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyentrann0703&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 
-## Tech Stack
+# 💻 Tech Stack
 
-**Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**ML & AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-
-**Computer Vision**
-
-![YOLO](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-**Data & Infra**
-
-![Weaviate](https://img.shields.io/badge/Weaviate-1B9B77?style=flat&logo=weaviate&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## Featured Project
+# 🚀 Featured Projects
 
 ### [🧴 Cosmetic Ingredient Analyzer](https://github.com/nguyentrann0703/skincare-ingredient-analyzer)
 
-> End-to-end AI pipeline for analyzing cosmetic product ingredients — classifying safety concerns and answering ingredient questions via RAG.
+End-to-end AI pipeline for analyzing cosmetic product ingredients — classifying safety concerns and answering ingredient questions via RAG.
 
-**Two core pipelines:**
-- **Concern Classifier** — Exact + fuzzy matching against a knowledge base of 2,509 ingredients, grouped into Safe / Potential Concerns / Alert
-- **RAG Q&A** — Hybrid BM25 + vector search (Weaviate) with Qwen2.5:7b for natural language ingredient Q&A
+- **Concern Classifier** — Exact + fuzzy matching against 2,509 ingredients, grouped into ✓ Safe / ⚠ Potential Concerns / ✕ Alert
+- **RAG Q&A** — Hybrid BM25 + vector search (Weaviate) powered by Qwen2.5:7b for natural language Q&A
+- **OCR Pipeline** — YOLOv11s (mAP50: 0.889) + EasyOCR + LLM cleaner for scanning physical product labels
+- **7,459 semantic chunks** from BAAI/bge-base-en-v1.5 embeddings over Paula's Choice Ingredient Dictionary
 
-**Architecture highlights:**
-- YOLOv11s (mAP50: 0.889) for ingredient label detection from product photos
-- EasyOCR + LLM-based text cleaning for noisy real-world labels
-- BAAI/bge-base-en-v1.5 embeddings over 7,459 semantic chunks
-- Scan context injection — follow-up questions are automatically grounded in the scanned product
-
-`Python` `YOLOv11` `EasyOCR` `Weaviate` `Ollama` `Streamlit` `Docker`
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
@@ -73,22 +53,4 @@ Currently exploring the intersection of computer vision, NLP, and vector search 
 
 Hackathon project built at LotusHack 2026.
 
-`Python`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=nguyentrann0703&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentrann0703&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-<sub>Building one pipeline at a time.</sub>
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
