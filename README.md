@@ -5,6 +5,7 @@
 🔍 Passionate about turning unstructured data into actionable insights  
 🛠️ Currently building: AI pipelines with RAG, computer vision, and vector search  
 📬 Reach me at: tatnguyen2007@gmail.com
+
 [![CV](https://img.shields.io/badge/My%20CV-View%20PDF-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17xvZPsMMgyQ_VaYYhcnXgFQnP8DWPlRz/view?usp=sharing)
 
 ---
