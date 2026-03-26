@@ -17,20 +17,18 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-1B9B77?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
 ### [🧴 Cosmetic Ingredient Analyzer](https://github.com/nguyentrann0703/skincare-ingredient-analyzer)
+<u>[View Walkthrough](https://rag-project-report.vercel.app/)</u>
 
 End-to-end AI pipeline for analyzing cosmetic product ingredients — classifying safety concerns and answering ingredient questions via RAG.
 
@@ -49,6 +47,7 @@ End-to-end AI pipeline for analyzing cosmetic product ingredients — classifyin
 ---
 
 ### [🍅 TomatoHub — LotusHack 2026](https://github.com/hoaianthai345/TomatoHub_TOTMA_LotusHack2026)
+<u>[View Walkthrough](https://devpost.com/software/tomatohub-ai-powered-relief-campaign?ref_content=user-portfolio&ref_feature=in_progress)</u>
 
 Social impact platform connecting organizations, supporters, and campaign operations in one workflow — built at LotusHack 2026.
 
@@ -64,3 +63,6 @@ Social impact platform connecting organizations, supporters, and campaign operat
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoaianthai345/TomatoHub_TOTMA_LotusHack2026)
+
