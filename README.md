@@ -4,7 +4,7 @@
 🤖 Interested in machine learning, applied AI, and end-to-end AI systems  
 🔍 Passionate about turning unstructured data into actionable insights  
 🛠️ Currently building: AI pipelines with RAG, computer vision, and vector search  
-📬 Reach me at: nguyentrann0703@gmail.com
+📬 Reach me at: tatnguyen2007@gmail.com
 
 ---
 
