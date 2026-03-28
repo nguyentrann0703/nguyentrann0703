@@ -34,7 +34,7 @@ End-to-end AI pipeline for analyzing cosmetic product ingredients — classifyin
 
 - **Concern Classifier** — Exact + fuzzy matching against 2,509 ingredients, grouped into ✓ Safe / ⚠ Potential Concerns / ✕ Alert
 - **RAG Q&A** — Hybrid BM25 + vector search (Weaviate) powered by Qwen2.5:7b for natural language Q&A
-- **OCR Pipeline** — YOLOv11s (mAP50: 0.889) + EasyOCR + LLM cleaner for scanning physical product labels
+- **OCR Pipeline** — YOLOv11s + EasyOCR + LLM cleaner for scanning physical product labels
 - **7,459 semantic chunks** from BAAI/bge-base-en-v1.5 embeddings over Paula's Choice Ingredient Dictionary
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
