@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/tat-nguyen-t-08a2a4405/](https://drive.google.com/file/d/1tK_vQTlBbviFHKdyHVj0BkxRB-RVPlFZ/view?usp=drive_link">My CV</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/tat-nguyen-t-08a2a4405/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:tatnguyen2007@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://www.threads.com/@nt.jazzmine">Study Blog</a>
