@@ -28,7 +28,7 @@ My projects have taken me from **OCR and retrieval-augmented generation** to **m
 AI agent that extracts 3–5 short highlights from long-form lecture and podcast videos, from YouTube/local ingestion to a rendered, captioned clip.
 
 - **Multimodal pipeline** — Audio, transcript, visual, and speaker-interaction signals feeding ranking, temporal localization, and boundary refinement
-- **LLM semantic layer** — Validates candidate highlights against transcript context and generates an explanation for each selected clip
+- **LLM semantic layer** — Assesses candidate highlights against transcript context and explains each selection
 - **Rendering** — FFmpeg-based clip export with transcript-aligned captions
 - **Modeling** — Supported training and evaluation of Learning-to-Rank and experimental ActionFormer models
 
