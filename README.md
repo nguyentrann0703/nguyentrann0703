@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nguyen!
 
-🎓 First-year Data Science student at the University of Economics Ho Chi Minh City  
+🎓 Second-year Data Science student at the University of Economics Ho Chi Minh City  
 🤖 Interested in machine learning, applied AI, and end-to-end AI systems  
 🔍 Passionate about turning unstructured data into actionable insights  
 🛠️ Currently building: AI pipelines with RAG, computer vision, and vector search  
@@ -60,6 +60,4 @@ Social impact platform connecting organizations, supporters, and campaign operat
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoaianthai345/TomatoHub_TOTMA_LotusHack2026)
 
